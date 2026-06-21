@@ -1,24 +1,25 @@
 # 📊 Data Science Internship Work
 
-Welcome to my Data Science Internship repository! This repository serves as a collection of projects completed during my internship journey, showcasing practical applications of Data Science, Machine Learning, Data Analysis, and Predictive Modeling using real-world datasets.
+Welcome to my Data Science Internship repository! This repository showcases the projects I completed during my internship, demonstrating practical applications of Data Science, Machine Learning, Data Analytics, and Predictive Modeling using real-world datasets.
 
-The goal of this repository is to document my learning, demonstrate hands-on experience with data-driven problem solving, and build a strong foundation in the field of Data Science and Artificial Intelligence.
+The purpose of this repository is to document my learning journey, strengthen my analytical skills, and build a portfolio of projects that solve real-world problems through data-driven approaches.
 
 ---
 
 ## 🎯 Objectives
 
-Throughout this internship, I focused on:
+During this internship, I focused on developing skills in:
 
 * Data Cleaning and Preprocessing
 * Exploratory Data Analysis (EDA)
 * Data Visualization
 * Statistical Analysis
-* Machine Learning Model Development
-* Predictive Analytics
+* Machine Learning
+* Predictive Modeling
 * Feature Engineering
-* Model Evaluation and Interpretation
-* Real-World Dataset Analysis
+* Model Evaluation
+* Insight Generation
+* Real-World Problem Solving
 
 ---
 
@@ -28,15 +29,16 @@ Throughout this internship, I focused on:
 
 * Python
 
-### Data Science Libraries
+### Libraries & Frameworks
 
 * Pandas
 * NumPy
 * Matplotlib
 * Seaborn
 * Scikit-Learn
+* XGBoost
 
-### Development Environment
+### Development Tools
 
 * Jupyter Notebook
 * Git
@@ -44,21 +46,21 @@ Throughout this internship, I focused on:
 
 ---
 
-## 📂 Repository Contents
-
-This repository contains projects across multiple Data Science domains, including:
+## 📂 Project Categories
 
 ### 📈 Exploratory Data Analysis (EDA)
 
-* Data exploration and cleaning
-* Trend identification
-* Statistical summaries
-* Insight generation
+* Data Cleaning
+* Missing Value Analysis
+* Statistical Summaries
+* Trend Identification
+* Insight Extraction
 
 ### 🤖 Machine Learning
 
 * Classification Models
 * Regression Models
+* Ensemble Learning
 * Predictive Analytics
 * Model Evaluation
 
@@ -68,25 +70,44 @@ This repository contains projects across multiple Data Science domains, includin
 * Scatter Plots
 * Box Plots
 * Correlation Heatmaps
-* Distribution Analysis
+* Feature Importance Charts
+* Comparative Visualizations
 
 ### 🧠 Machine Learning Fundamentals
 
-* Algorithm implementation from scratch
-* Classification techniques
-* Regression techniques
-* Model comparison and evaluation
+* Algorithm Implementation
+* Model Comparison
+* Feature Engineering
+* Performance Analysis
 
-### 📚 Domain-Based Analytics
+### 🌍 Domain-Based Analytics
 
-Projects involving:
+Projects spanning multiple domains, including:
 
-* Finance & Market Analysis
+* Educational Analytics
+* Financial Analytics
 * Weather Analytics
-* Recommendation Systems
 * Real Estate Analytics
-* Transportation & Demand Forecasting
-* Astronomy & Scientific Data Analysis
+* Recommendation Systems
+* Transportation Analytics
+* Scientific Data Analysis
+
+---
+
+## 📁 Projects Included
+
+Current projects in this repository include:
+
+* Seoul Bike Rental Demand Analysis
+* Gold Price Prediction
+* House Price Prediction
+* Movie Recommendation & Analysis
+* Pulsar Star Classification
+* Student Performance Prediction & Educational Analytics
+* SVM & KNN from Scratch
+* Weather Classification
+
+More projects will be added as my internship and learning journey continue.
 
 ---
 
@@ -96,7 +117,7 @@ Projects involving:
 
 * Data Cleaning
 * Missing Value Handling
-* Outlier Detection
+* Data Transformation
 * Feature Engineering
 * Statistical Analysis
 
@@ -106,38 +127,24 @@ Projects involving:
 * K-Nearest Neighbors (KNN)
 * Support Vector Machines (SVM)
 * Random Forest
-* Classification Models
-* Regression Models
+* XGBoost
+* Classification
+* Regression
 
 ### Data Visualization
 
-* Exploratory Data Analysis
-* Trend Analysis
+* Exploratory Data Analysis (EDA)
 * Correlation Analysis
-* Interactive Insights
+* Trend Analysis
+* Feature Importance Analysis
+* Performance Comparison
 
-### Software & Tools
+### Development & Tools
 
 * Python Programming
 * Jupyter Notebook
 * Git Version Control
-* GitHub Project Management
-
----
-
-## 📁 Current Projects
-
-The repository currently includes projects involving:
-
-* Bike Rental Demand Analysis
-* Gold Price Prediction
-* House Price Prediction
-* Movie Recommendation & Analysis
-* Pulsar Star Classification
-* SVM & KNN Implementation from Scratch
-* Weather Classification
-
-More projects will be added as the internship progresses.
+* GitHub Repository Management
 
 ---
 
@@ -158,7 +165,7 @@ cd Data-Science-Internship-Work
 ### Install Dependencies
 
 ```bash
-pip install pandas numpy matplotlib seaborn scikit-learn jupyter
+pip install pandas numpy matplotlib seaborn scikit-learn xgboost jupyter
 ```
 
 ### Launch Jupyter Notebook
@@ -171,16 +178,18 @@ jupyter notebook
 
 ## 📚 Learning Outcomes
 
-Through these projects, I have gained practical experience in:
+Through these projects, I have gained hands-on experience in:
 
 * Data Collection & Preparation
-* Exploratory Data Analysis (EDA)
+* Exploratory Data Analysis
 * Machine Learning Workflows
 * Predictive Modeling
 * Feature Engineering
 * Model Evaluation
 * Data Visualization
-* Real-World Problem Solving
+* Educational Analytics
+* Recommendation Systems
+* Real-World Data Science Applications
 
 ---
 
@@ -190,18 +199,18 @@ Through these projects, I have gained practical experience in:
 
 B.Tech – Artificial Intelligence & Machine Learning
 
-🔗 GitHub: https://github.com/saadmd13
+GitHub: https://github.com/saadmd13
 
 ---
 
 ## 📌 About This Repository
 
-This repository represents my journey through a Data Science Internship, where I applied analytical thinking, machine learning techniques, and data visualization skills to solve real-world problems.
+This repository represents my Data Science Internship journey and serves as a collection of projects demonstrating practical applications of data analysis and machine learning across multiple domains.
 
-Each notebook demonstrates a complete workflow—from data preprocessing and exploration to model development and evaluation—providing practical insights into the Data Science lifecycle.
+Each project follows an end-to-end workflow, including data preprocessing, exploratory analysis, model development, evaluation, and interpretation of results. The repository highlights both technical implementation and the ability to derive meaningful insights from data.
 
 ---
 
-### ⭐ Support
+## ⭐ Support
 
-If you find this repository useful or interesting, consider giving it a star. Your support is greatly appreciated and motivates me to continue learning and sharing my work!
+If you find this repository helpful or interesting, consider giving it a star. Your support motivates me to continue learning, building, and sharing more data science projects.
